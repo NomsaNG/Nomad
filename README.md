@@ -46,9 +46,13 @@ Git
 Installation
 
 1. Clone the repository:
+
+```
 git clone https://github.com/your-username/sadc-nomad-id.git
 
 cd sadc-nomad-id
+```
+
 2. Install dependencies:
 
 ```shellscript
@@ -168,6 +172,7 @@ sadc-nomad-id/
 
 ### Welcome & Onboarding
 
+![Alt Text](assets/welcome.png)
 
 
 
@@ -175,25 +180,21 @@ sadc-nomad-id/
 ### Registration
 
 
+![Alt Text](assets/reg.png)
 
 
-
+<!--
 ### Dashboard
 
 
-
+![Alt Text](assets/image.png) -->
 
 
 ### Services
 
 
+![Alt Text](assets/services.png)
 
-
-
-
-
-
-### Border Crossing
 
 
 
