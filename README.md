@@ -1,42 +1,44 @@
-SADC Nomad ID
+## SADC Nomad ID
 A cross-border digital identity solution for migrants in Southern Africa, providing secure, verifiable, and interoperable identification to access essential services across SADC countries.
 
-SADC Nomad ID
-
-Overview
+### Overview
 SADC Nomad ID addresses the challenges faced by millions of undocumented migrants in Southern Africa who struggle with legal and economic barriers due to lack of recognized identification. This digital ID system leverages blockchain technology, biometrics, and AI-powered verification to create a secure and portable identity that works across borders.
 
-Problem Statement
-Millions of undocumented migrants in Southern Africa face:
+### Problem Statement
+*Millions of undocumented migrants in Southern Africa face:*
 
 Limited access to employment, education, healthcare, and financial services
 Inability to legally contribute to national economies
 Vulnerability to exploitation and economic exclusion
 Challenges with fragmented national ID systems that lack interoperability
-Solution
-SADC Nomad ID provides:
+
+### Solution
+*SADC Nomad ID provides:*
 
 A blockchain-secured digital identity recognized across SADC countries
 Biometric verification for secure, fraud-proof identification
 Legal framework for accessing essential services
 Ability to work legally and contribute to national economies
 Seamless cross-border movement within legal frameworks
-Features
+
+### Features
 Secure Digital ID: Blockchain-protected identity with unique ID number
 Biometric Authentication: Facial recognition and fingerprint verification
 Cross-Border Recognition: ID works across all SADC member states
-Service Access:
+
+### Service Access:
 Banking and financial services
 Employment verification
 Healthcare access
 Education services
 Border Crossing: Pre-registration for border crossings
 Activity Tracking: Monitor ID usage and verification history
-Technology Stack
+
+### Technology Stack
 Frontend: Next.js, React, TypeScript
 Styling: Tailwind CSS, shadcn/ui components
-Authentication: Biometric verification (simulated)
-Data Storage: Blockchain technology (simulated)
+Authentication: Biometric verification
+Data Storage: Blockchain technology
 Icons: Lucide React
 Getting Started
 Prerequisites
@@ -254,7 +256,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Project Link: [https://github.com/your-username/sadc-nomad-id](https://github.com/your-username/sadc-nomad-id)
+Project Link: [https://github.com/NomsaNG/sadc-nomad-id](https://github.com/NomsaNG/sadc-nomad-id)
 
 ```plaintext
 
